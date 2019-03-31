@@ -1,9 +1,9 @@
 package main
 
 import (
-	c "go-concurrency-examples/example1"
+	ex1 "go-concurrency-examples/example1"
 )
 
 func main() {
-	c.HandleRequests()
+	ex1.HandleRequests()
 }
